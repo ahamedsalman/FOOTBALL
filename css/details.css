@@ -19,6 +19,9 @@ Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152
  font-size:19px;
  color:#999;
  }
+ .first{
+    width: 10%;
+ }
 .blog_main_1 a{ 
  font-size: 26px;
  color: #fff;
@@ -46,6 +49,9 @@ Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152
  }
  .logo{
     width: 40%;
+}
+.logo1{
+   width: 100%;
 }
 .blog_4 {
  background-color: #ECECEC;
